@@ -1,0 +1,45 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "youtubelite",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "youtubelite (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "youtubelite (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "files",
+      "cwd": "lib\\files",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "files (profile mode)",
+      "cwd": "lib\\files",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "files (release mode)",
+      "cwd": "lib\\files",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
